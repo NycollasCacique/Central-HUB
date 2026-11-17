@@ -1,0 +1,17 @@
+import m0 from './pontos-saltitantes';
+import m1 from './barra-deslizante';
+import m2 from './carregamento-giratorio';
+import m3 from './carregamento-conico';
+import m4 from './progresso-circular';
+import m5 from './menu-hamburguer';
+import m6 from './abas-deslizantes';
+import m7 from './botao-confirmacao';
+import m8 from './confirmacao-desenhada';
+import m9 from './acordeao-expansivel';
+import m10 from './expansao-vertical';
+import m11 from './entrada-com-foco';
+import m12 from './revelacao-cortina';
+import m13 from './texto-com-foco';
+import m14 from './balanco-recusa';
+import m15 from './contador-estatistico';
+export const animations = [m0,m1,m2,m3,m4,m5,m6,m7,m8,m9,m10,m11,m12,m13,m14,m15];
